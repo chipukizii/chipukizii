@@ -16,7 +16,7 @@
 
 🧰 Tech Stack  
 Languages & Frameworks:  
-- Python 🐍 | Django 🧩 | JavaScript ⚡ | PHP 🌐 | Laravel 🚀  
+- Python 🐍 | Django 🧩 | JavaScript ⚡ | PHP 🌐 | Laravel 🚀  | TypeScript |
 
 Tools & Platforms: 
 - Git & GitHub | VS Code | PostgreSQL | MySQL | HTML | CSS  
@@ -42,4 +42,5 @@ a
 time.  
 
 ⭐️ _If you like what I do, consider following me or checking out my repositories!_
+
 
